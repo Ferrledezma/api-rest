@@ -1,4 +1,4 @@
-package com.example.apiRest;
+package com.example.concesionary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
